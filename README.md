@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:matviitm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-matviitm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:rigagarim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rigagarim%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://t.me/madtmt">
     <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
