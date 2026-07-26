@@ -93,6 +93,6 @@ Current direction: production-oriented ETL patterns, reliable SQL/Python code, A
 
 ## Contact
 
-- Telegram: [@madtmt](https://t.me/madtmt)
-- GitHub: [mattim8](https://github.com/mattim8)
-- Gmail: [matviitm@gmail.com](mailto:matviitm@gmail.com)
+- Telegram: [@madtmt](https://t.me/zchrvv)
+- GitHub: [mattim8](https://github.com/mattvv8)
+- Gmail: [matviitm@gmail.com](mailto:rigagarim@gmail.com)
