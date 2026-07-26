@@ -94,5 +94,5 @@ Current direction: production-oriented ETL patterns, reliable SQL/Python code, A
 ## Contact
 
 - Telegram: [@zchrvv](https://t.me/zchrvv)
-- GitHub: [zchrvv](https://github.com/mattvv8)
+- GitHub: [mattvv8](https://github.com/mattvv8)
 - Gmail: [rigagarim@gmail.com](mailto:rigagarim@gmail.com)
