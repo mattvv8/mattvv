@@ -1,4 +1,4 @@
-﻿<h1 align="center">Data Engineer</h1>
+ ﻿<h1 align="center">Data Engineer</h1>
 
 <p align="center">
   Building batch ETL pipelines with Python, SQL, Airflow, Docker and analytical databases.
@@ -8,7 +8,7 @@
   <a href="mailto:rigagarim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rigagarim%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/madtmt">
+  <a href="https://t.me/zchrvv">
     <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
